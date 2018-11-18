@@ -1,5 +1,2 @@
 # Review_Sentiment_Analysis
-Sentiment analysis based on movie reviews
-It consists of web scraping in pyhton 
-scraped reviews of movie and 
-done the sentiment analysis
+An attempt to gather the movie review data from public review websites and to see the public reaction based on sentiment analysis. Using to python for scraping the webpages and reporting the reviews based on positive, neutral and negative sentiments.
